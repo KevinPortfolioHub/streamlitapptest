@@ -15,4 +15,4 @@ left_column, right_column = sl.columns(2)
 left_column.text("left column")
 with right_column:
     sl.text_input("type text here")
-    sl.text_input("type text here now")
+    sl.text_input("type text here now!!!!!!!!!!")
